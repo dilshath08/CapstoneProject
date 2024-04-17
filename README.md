@@ -45,24 +45,23 @@ As you have seen earlier, this project has a several steps before giving us the 
 
 ### Step -1 (Upload model image, cloth image)
 (PFA images)
-<img src="necessary/13109_00.jpg" width="64"/> <img src = necessary/cloth/14529_00.jpg" width="64"/>
+<img src="necessary/13109_00.jpg" width="128"/> <img src = "necessary/cloth/14529_00.jpg" width="128"/>
 
 ### Step - 2(Converting these images into openpose-json, openpose-img)
 
 I have taken the openpose-json[1] and then generated using the standard model images
 (PFA images)
 
-<img src="necessary/12834_00_rendered.png" width="64"/> <img src="necessary/12836_00_rendered.png" width="64"/>
+<img src="necessary/12834_00_rendered.png" width="128"/> 
+<img src="necessary/12836_00_rendered.png" width="128"/>
 
 ### Step - 3(Segmentation, GMM, Alias) and then the final result
 
-(PFA images)
 <img src="necessary/result.png"/>
 
 ### Step -4(Best try-on images recorded so far):
 
-(PFA imges)
-<img src="necessary/best/07429_06802_00.jpg" width="64"/><img src="necessary/best/10653_00624_00.jpg" width="64"/><img src="necessary/best/13973_13933_00.jpg" width="64"/><img src="necessary/best/14673_14481_00.jpg" width="64"/>
+<img src="necessary/best/07429_06802_00.jpg" width="128"/><img src="necessary/best/10653_00624_00.jpg" width="128"/><img src="necessary/best/13973_13933_00.jpg" width="128"/><img src="necessary/best/14673_14481_00.jpg" width="128"/>
 
 ## Discussion (analysis):
 
@@ -89,5 +88,7 @@ Moving forward, there's exciting potential to enrich the technology with advance
 ## References:
 
 [1]. T. Simon, H. Joo, I. Matthews, and Y. Sheikh, "Hand Keypoint Detection in Single Images using Multiview Bootstrapping," arXiv preprint arXiv:1704.07809, 2017. 
+
 [2]. Haoye Dong, Xiaodan Liang, Xiaohui Shen, Bochao Wang, Hanjiang Lai, Jia Zhu, Zhiting Hu, and Jian Yin. Towards multi-pose guided virtual try-on network. In Proc. of the IEEE international conference on computer vision (ICCV), pages 9026–9035, 2019.
+
 [3]. Andrew Brock, Jeff Donahue, and Karen Simonyan. Large scale gan training for high fidelity natural image synthesis. In Proc. the International Conference on Learning Representations (ICLR), 2018.
