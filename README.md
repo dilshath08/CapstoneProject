@@ -45,7 +45,6 @@ As you have seen earlier, this project has a several steps before giving us the 
 
 ### Step -1 (Upload model image, cloth image)
 (PFA images)
-necessary/13109_00.jpg   necessary/cloth/14529_00.jpg
 <img src="necessary/13109_00.jpg" width="64"/> <img src = necessary/cloth/14529_00.jpg" width="64"/>
 
 ### Step - 2(Converting these images into openpose-json, openpose-img)
@@ -53,17 +52,17 @@ necessary/13109_00.jpg   necessary/cloth/14529_00.jpg
 I have taken the openpose-json[1] and then generated using the standard model images
 (PFA images)
 
-<img src="necessary/12834_00_rendered.png"/> <img src="necessary/12836_00_rendered.png"/>
+<img src="necessary/12834_00_rendered.png" width="64"/> <img src="necessary/12836_00_rendered.png" width="64"/>
 
 ### Step - 3(Segmentation, GMM, Alias) and then the final result
 
 (PFA images)
-<img src="necessary/result"/>
+<img src="necessary/result.png"/>
 
 ### Step -4(Best try-on images recorded so far):
 
 (PFA imges)
-<img src="necessary/best/07429_06802_00.jpg"/><img src="necessary/best/10653_00624_00.jpg"/><img src="necessary/best/13973_13933_00.jpg"/><img src="necessary/best/14673_14481_00.jpg"/>
+<img src="necessary/best/07429_06802_00.jpg" width="64"/><img src="necessary/best/10653_00624_00.jpg" width="64"/><img src="necessary/best/13973_13933_00.jpg" width="64"/><img src="necessary/best/14673_14481_00.jpg" width="64"/>
 
 ## Discussion (analysis):
 
