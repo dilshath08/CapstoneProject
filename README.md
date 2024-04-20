@@ -50,7 +50,6 @@ As you have seen earlier, this project has a several steps before giving us the 
 ### Step - 2(Converting these images into openpose-json, openpose-img)
 
 I have taken the openpose-json[1] and then generated using the standard model images
-(PFA images)
 
 <img src="necessary/12834_00_rendered.png" width="128"/> 
 <img src="necessary/12836_00_rendered.png" width="128"/>
@@ -62,6 +61,8 @@ I have taken the openpose-json[1] and then generated using the standard model im
 ### Step -4(Best try-on images recorded so far):
 
 <img src="necessary/best/07429_06802_00.jpg" width="128"/><img src="necessary/best/10653_00624_00.jpg" width="128"/><img src="necessary/best/13973_13933_00.jpg" width="128"/><img src="necessary/best/14673_14481_00.jpg" width="128"/>
+
+To know about more results, please look at "results/final-results"
 
 ## Discussion (analysis):
 
