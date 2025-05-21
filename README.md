@@ -59,7 +59,8 @@ I have taken the openpose-json[1] and then generated using the standard model im
 
 ### Step -4(Best try-on images recorded so far):
 
-<img src="necessary/best/07429_06802_00.jpg" width="128"/> <img src="necessary/best/10653_00624_00.jpg" width="128"/><img src="necessary/best/13973_13933_00.jpg" width="128"/> <img src="necessary/best/14673_14481_00.jpg" width="128"/>
+<img src="necessary/best/07429_06802_00.jpg" width="128"/> <img src="necessary/best/10653_00624_00.jpg" width="128"/>
+<img src="necessary/best/13973_13933_00.jpg" width="128"/> <img src="necessary/best/14673_14481_00.jpg" width="128"/>
 
 To know about more results, please look at "results/final-results"
 
@@ -73,7 +74,7 @@ This is just the beginning, though. In the future, we can make it even better, l
 
 ## Statement of contributions:
 
-I, Dilshath Shaik, hworked on the core development of this project. The insightful guidance provided by my professor, Jeongkyu Lee, was instrumental in refining the project's direction and focus. Additionally, the consistent support and specialized assistance from my teaching assistant, Ting Tang, were critical in overcoming the technical challenges encountered along the way. Each of these roles played a fundamental part in the project's progression towards its current state of accomplishment.
+I, Dilshath Shaik, worked on the core development of this project. The insightful guidance provided by my professor, Jeongkyu Lee, was instrumental in refining the project's direction and focus. Additionally, the consistent support and specialized assistance from my teaching assistant, Ting Tang, were critical in overcoming the technical challenges encountered along the way. Each of these roles played a fundamental part in the project's progression towards its current state of accomplishment.
 
 ## Conclusion:
 
